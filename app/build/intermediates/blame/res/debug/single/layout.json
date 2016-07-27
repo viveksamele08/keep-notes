@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_edit.xml",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\layout\\note_edit.xml"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notelist.xml",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\layout\\notelist.xml"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_row_item.xml",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\layout\\note_row_item.xml"
+    }
+]

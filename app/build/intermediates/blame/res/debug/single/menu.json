@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\menu\\noteedit_menu.xml",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\menu\\noteedit_menu.xml"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notelist_menu.xml",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\menu\\notelist_menu.xml"
+    }
+]

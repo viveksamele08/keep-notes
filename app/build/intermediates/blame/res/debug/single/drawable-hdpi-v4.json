@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_note.png",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\drawable-hdpi\\add_note.png"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notelist.png",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\drawable-hdpi\\notelist.png"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_save.png",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "E:\\Developement\\Projects Code\\Note\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\note_header.png",
+        "source": "E:\\Developement\\Projects Code\\Note\\app\\src\\main\\res\\drawable-hdpi\\note_header.png"
+    }
+]
